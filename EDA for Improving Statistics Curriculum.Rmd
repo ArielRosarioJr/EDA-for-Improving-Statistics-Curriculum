@@ -1,8 +1,11 @@
 ---
-title: "Redefining Success: A Comprehensive Analysis for Improving First-Semester Statistics Curriculum"
+title: "Redefining Success: A Comprehensive Analysis for Improving First-Semester
+  Statistics Curriculum"
 author: "Ariel Rosario, Jr."
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 <p align="center">
